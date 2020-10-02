@@ -4,7 +4,7 @@ $('.btn-lg').hover(function() {
 
 $('.btn-lg').click(function() {
 	$('#body2').toggleClass('second_background');
-	// setTimeout(function() {
-	// 	location.href = '../HTML_L1/color_game.html';
-	// }, 4300);
+	setTimeout(function() {
+		https://michal-w-dev.github.io/RBG-game/
+	}, 4300);
 });
