@@ -5,6 +5,6 @@ $('.btn-lg').hover(function() {
 $('.btn-lg').click(function() {
 	$('#body2').toggleClass('second_background');
 	setTimeout(function() {
-		https://michal-w-dev.github.io/RBG-game/
+		location.href = 'https://michal-w-dev.github.io/RBG-game/';
 	}, 4300);
 });
